@@ -5,7 +5,7 @@
 
 # 중앙대학교 자율지능시스템 연구실(CAU-AISL)
 
-### [>>> 연구실 홈페이지 <<<](https://sites.google.com/view/cau-aisl/home)
+### [>>> 연구실 홈페이지 <<<](https://cau-aisl.github.io)
 
 
 
